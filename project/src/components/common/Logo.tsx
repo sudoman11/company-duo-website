@@ -4,7 +4,7 @@ export default function Logo() {
   return (
     <Link to="/" className="flex items-center space-x-2 text-theme-text">
       <img 
-        src="./src/images/logo.jpg" // Replace this with the correct path to your JPG logo
+        src="src/images/logo.jpg" // Replace this with the correct path to your JPG logo
         alt="Duoinsec Logo" 
         className="h-12 w-12 object-contain"
       />
