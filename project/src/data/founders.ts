@@ -3,7 +3,7 @@ export const founders: Founder[] = [
     id: 'Deepan-founder',
     name: 'Deepan Raj R',
     role: 'Founder & CEO',
-    image: './src/images/deepan.jpg', // Updated path
+    image: 'src/images/deepan.jpg', // Updated path
     bio: 'A visionary leader in cybersecurity and technology education...',
     expertise: ['Cybersecurity', 'Ethical Hacking', 'IoT Security', 'BlockChain'],
     achievements: [
@@ -33,7 +33,7 @@ export const founders: Founder[] = [
     id: 'sanjay-cofounder',
     name: 'Sanjay G',
     role: 'CO-Founder & HR',
-    image: './src/images/sanjay.jpg', // Updated path
+    image: 'src/images/sanjay.jpg', // Updated path
     bio: 'An innovative technologist with expertise in AI and cybersecurity...',
     expertise: ['Artificial Intelligence', 'Cloud Security', 'System Architecture', 'Tech Education'],
     achievements: [
