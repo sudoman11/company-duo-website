@@ -3,7 +3,7 @@ export const founders: Founder[] = [
     id: 'Deepan-founder',
     name: 'Deepan Raj R',
     role: 'Founder & CEO',
-    image:'https://drive.google.com/file/d/1edzeZ0z6yMvA4fiUcwruJGjHBH2Vf1-N/view?usp=drive_link', // Updated path
+    image:'C:\Users\Innocent\Documents\company website\project\src\images\deepan.jpg', // Updated path
     bio: 'A visionary leader in cybersecurity and technology education...',
     expertise: ['Cybersecurity', 'Ethical Hacking', 'IoT Security', 'BlockChain'],
     achievements: [
